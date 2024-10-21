@@ -1,11 +1,11 @@
 # ModeloFinal
 
 Instructivo de replicabilidad de la Competencia Kaggle.
-1. De la carpeta ****, copiar el archivo "miAmbiente.yml" y pegarlo en su ruta ~/buckets/b1.
+1. De la carpeta https://github.com/nicovassolo/labo2024ba/tree/main/src/ModeloFinal_Edgar_Vassolo, copiar el archivo "miAmbiente.yml" y pegarlo en su ruta ~/buckets/b1.
 
 2. Crear una máquina virtual en Google Cloud Platform.
 
-3. De la carpeta *****, abrir el archivo "901_run_workflow_SEMI_conceptual_modelofinal.R", ejecutarlo.
+3. De la carpeta https://github.com/nicovassolo/labo2024ba/tree/main/src/ModeloFinal_Edgar_Vassolo, abrir el archivo "901_run_workflow_SEMI_conceptual_modelofinal.R", ejecutarlo.
 
 4. Una vez finalizado el workflow, y habiéndose generado todas las subidas a Kaggle, entre sus submissions, elegir para la entrega final el modelo "KA-XXXX_03_048_r1_02100.csv".
 
